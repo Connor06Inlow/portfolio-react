@@ -71,10 +71,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    among us
+                    About me
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+                    I am Connor Inlow, a freshman in college at Southwestern College. I play soccer and have a very cool dorm room.
                     </p>
                 </div>
               </div>
@@ -93,10 +93,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    workflow
+                    What I do
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+                    I am a computer science major. I want to learn the basics of coding while have a real job oppurtunity when I am done with school.
                     </p>
                 </div>
               </div>
@@ -115,10 +115,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    working
+                    Sports
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+                    As I said I play soccer for the mens team and I currently have 2 goals my freshman year. As a freshman that is very good.
                     </p>
                 </div>
               </div>
@@ -137,10 +137,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    workflow
+                    Job
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+                    I dont currently have a job but I did work at AMC. The movie theatre is not a job for me.
                     </p>
                 </div>
               </div>
@@ -159,10 +159,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Robuster
+                    Money
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+                    I have very little money. I am a broke college student.
                     </p>
                 </div>
               </div>
@@ -181,10 +181,10 @@ const FeaturesTiles = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Robusty
+                    Fun
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+                    I have lots of fun at college. Although it is a lot of work.
                     </p>
                 </div>
               </div>
